@@ -2,6 +2,8 @@
 
 **Short version:** Gold is widely called the ultimate geopolitical hedge. Across 15 major shocks since 2015, it moved *no more* around those shocks than around an ordinary Fed meeting — and the difference isn't statistically significant. The safe-haven premium people assume isn't visible in the data.
 
+![Gold's reaction to geopolitical shocks vs FOMC meetings](gold_chart.png)
+
 ## The question
 
 The project started as a different one: *does gold react differently to the Fed depending on who's in the White House?* An early cut suggested a "Trump effect" on gold's FOMC-day moves — but it vanished once I controlled for the Iran war running through the same period. Chasing that confound led to the actual question worth asking: **does gold move more around geopolitical shocks than around monetary-policy events at all?**
