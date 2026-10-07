@@ -2,7 +2,7 @@
 
 **Short version:** Gold is widely called the ultimate geopolitical hedge. Across 15 major shocks since 2015, it moved *no more* around those shocks than around an ordinary Fed meeting — and the difference isn't statistically significant. The safe-haven premium people assume isn't visible in the data.
 
-![Gold's reaction to geopolitical shocks vs FOMC meetings](GoldChart.png)
+![Gold's reaction to geopolitical shocks vs FOMC meetings](Gold_Chart.png)
 
 ## The question
 
